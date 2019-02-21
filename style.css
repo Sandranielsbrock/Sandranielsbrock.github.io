@@ -1,0 +1,19 @@
+body {
+  font-family:'Indie Flower', cursive;
+font-size: 20px;
+background-color: teal;
+}
+ul{
+  color: red;
+}
+h1{
+  text-align:center;
+  color:pink;
+}
+header {
+  background-image: url('hjertelogo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+
+}
